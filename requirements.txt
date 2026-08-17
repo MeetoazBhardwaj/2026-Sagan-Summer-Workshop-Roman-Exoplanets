@@ -1,0 +1,24 @@
+# Core scientific Python stack detected in the workshop notebooks
+numpy
+pandas
+matplotlib
+scipy
+astropy
+
+# Modelling, inference, and visualization
+MulensModel
+VBMicrolensing
+emcee
+corner
+iminuit
+multiprocess
+tqdm
+ipywidgets
+
+# Session II / specialist astronomy package
+spisea
+
+# Note: some workshop notebooks also reference workshop-specific helper code
+# such as `microlens_emcee` and Google Colab/Drive integrations. Those are not
+# listed here as ordinary PyPI requirements until their setup/source is
+# documented alongside the relevant notebook.
